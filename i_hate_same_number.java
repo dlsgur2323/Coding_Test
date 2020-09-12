@@ -25,6 +25,8 @@ public class i_hate_same_number {
         }
 
         return answer;
+        
+
     }
 	
 	
